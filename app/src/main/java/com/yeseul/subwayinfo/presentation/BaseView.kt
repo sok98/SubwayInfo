@@ -1,4 +1,4 @@
-package com.yeseul.subwayinfo.presenter
+package com.yeseul.subwayinfo.presentation
 
 interface BaseView<PresenterT : BasePresenter> {
 
